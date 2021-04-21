@@ -6,7 +6,9 @@
   "dependencies": {
     "typescript": "^4.2.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "tslint": "^6.1.3"
+  },
   "scripts": {
     "transpile": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
