@@ -6,3 +6,6 @@
 2. [let과 const의 타입 추론(Type Inference)에서 차이점은?](https://github.com/kuman514/typescript-practice/blob/main/let%20const%20type%20inference.ts)
 3. [Union 타입은 무엇인가?](https://github.com/kuman514/typescript-practice/blob/main/union%20type.ts)
 4. [타입 단언(Type Assertion)은 무엇인가?](https://github.com/kuman514/typescript-practice/blob/main/type%20assertion.ts)
+5. [타입 별칭(Type Alias)은 무엇인가?](https://github.com/kuman514/typescript-practice/blob/main/type%20alias.ts)
+6. [TypeScript에서의 인터페이스(Interface) 사용법은 어떠한가?](https://github.com/kuman514/typescript-practice/blob/main/interface.ts)
+7. [TypeScript에서의 class implements interface는 어떠한가?](https://github.com/kuman514/typescript-practice/blob/main/class%20implements%20interface.ts)
