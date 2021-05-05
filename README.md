@@ -9,3 +9,5 @@
 5. [타입 별칭(Type Alias)은 무엇인가?](https://github.com/kuman514/typescript-practice/blob/main/type%20alias.ts)
 6. [TypeScript에서의 인터페이스(Interface) 사용법은 어떠한가?](https://github.com/kuman514/typescript-practice/blob/main/interface.ts)
 7. [TypeScript에서의 class implements interface는 어떠한가?](https://github.com/kuman514/typescript-practice/blob/main/class%20implements%20interface.ts)
+8. [TypeScript에서의 class 사용은 어떠한가?](https://github.com/kuman514/typescript-practice/blob/main/class.ts)
+9. [TypeScript에서의 class 상속은 어떻게 이루어지는가?](https://github.com/kuman514/typescript-practice/blob/main/class%20inherit.ts)
