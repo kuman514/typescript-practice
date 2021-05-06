@@ -13,3 +13,5 @@
 9. [TypeScript에서의 class 상속은 어떻게 이루어지는가?](https://github.com/kuman514/typescript-practice/blob/main/class%20inherit.ts)
 10. [TypeScript의 class의 getter와 setter는 어떻게 만드는가?](https://github.com/kuman514/typescript-practice/blob/main/class%20get%20set.ts)
 11. [TypeScript의 class의 static 키워드는 어떻게 쓰는가?](https://github.com/kuman514/typescript-practice/blob/main/class%20static.ts)
+12. [TypeScript의 abstact class는 어떻게 만들 수 있는가?](https://github.com/kuman514/typescript-practice/blob/main/absctact%20class.ts)
+13. [TypeScript의 private constructor로 무엇을 할 수 있는가?](https://github.com/kuman514/typescript-practice/blob/main/private%20constructor.ts)
