@@ -11,3 +11,5 @@
 7. [TypeScript에서의 class implements interface는 어떠한가?](https://github.com/kuman514/typescript-practice/blob/main/class%20implements%20interface.ts)
 8. [TypeScript에서의 class 사용은 어떠한가?](https://github.com/kuman514/typescript-practice/blob/main/class.ts)
 9. [TypeScript에서의 class 상속은 어떻게 이루어지는가?](https://github.com/kuman514/typescript-practice/blob/main/class%20inherit.ts)
+10. [TypeScript의 class의 getter와 setter는 어떻게 만드는가?](https://github.com/kuman514/typescript-practice/blob/main/class%20get%20set.ts)
+11. [TypeScript의 class의 static 키워드는 어떻게 쓰는가?](https://github.com/kuman514/typescript-practice/blob/main/class%20static.ts)
